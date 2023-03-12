@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Alex jonson",
+    "experience": "6",
+    "photo": "https://c0.wallpaperflare.com/preview/672/642/422/chef-coffee-cook-cup.jpg",
+    "description": "When the James Beard award winning restaurant Vetri asked me to develop a custom blend to match their cuisine and authentic Italian atmosphere, I was excited and nervous all at once. I had created custom blends before, however this was a great honor. I was already a huge fan of the restaurant and held great reverence for the quality of the food and skill of the chefs in its kitchen. On the other hand I knew the chef was very determined, willful, and not very delicate in his words.",
+    "country": "Amarica",
+    "age": "55",
+    "topItem": [
+      {
+        "coffeName": "Flat White",
+        "img": "https://images.pexels.com/photos/3556686/pexels-photo-3556686.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Cold Brew",
+        "img": "https://images.pexels.com/photos/7362647/pexels-photo-7362647.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Boiled",
+        "img": "https://images.pexels.com/photos/8109628/pexels-photo-8109628.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "name": "sanjana rui",
+    "experience": "2",
+    "photo": "https://as1.ftcdn.net/v2/jpg/02/93/45/64/1000_F_293456457_C2VqKEn2q1gbmNfsXZfPpQEz03rbNP1Q.jpg",
+    "description": "When the James Beard award winning restaurant Vetri asked me to develop a custom blend to match their cuisine and authentic Italian atmosphere, I was excited and nervous all at once. I had created custom blends before, however this was a great honor. I was already a huge fan of the restaurant and held great reverence for the quality of the food and skill of the chefs in its kitchen. On the other hand I knew the chef was very determined, willful, and not very delicate in his words.",
+    "country": "Germany",
+    "age": "30",
+    "topItem": [
+      {
+        "coffeName": "Flat White",
+        "img": "https://images.pexels.com/photos/2575835/pexels-photo-2575835.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Percolated",
+        "img": "https://images.pexels.com/photos/14758630/pexels-photo-14758630.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Vacuum",
+        "img": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "name": "Liam",
+    "experience": "5",
+    "photo": "https://media.istockphoto.com/id/1192003808/photo/kitchen-chef.jpg?s=612x612&w=0&k=20&c=IhO8ODdtulOun0h_8HroDPL6NZPAnm6Wi12QHkf3ttA=",
+    "description": "When the James Beard award winning restaurant Vetri asked me to develop a custom blend to match their cuisine and authentic Italian atmosphere, I was excited and nervous all at once. I had created custom blends before, however this was a great honor. I was already a huge fan of the restaurant and held great reverence for the quality of the food and skill of the chefs in its kitchen. On the other hand I knew the chef was very determined, willful, and not very delicate in his words.",
+    "country": "Spain ",
+    "age": "35",
+    "topItem": [
+      {
+        "coffeName": "Flat White",
+        "img": "https://images.pexels.com/photos/7400278/pexels-photo-7400278.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Moka Pot",
+        "img": "https://images.pexels.com/photos/885021/pexels-photo-885021.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Espresso",
+        "img": "https://images.pexels.com/photos/377903/pexels-photo-377903.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "name": "James.",
+    "experience": "6",
+    "photo": "https://lehren.com/wp-content/uploads/2020/04/not-dalgona-coffee-chef-sanjeev-kapoor-wants-you-to-try-this-1587116470-696x392.jpg",
+    "description": "When the James Beard award winning restaurant Vetri asked me to develop a custom blend to match their cuisine and authentic Italian atmosphere, I was excited and nervous all at once. I had created custom blends before, however this was a great honor. I was already a huge fan of the restaurant and held great reverence for the quality of the food and skill of the chefs in its kitchen. On the other hand I knew the chef was very determined, willful, and not very delicate in his words.",
+    "country": "Englend",
+    "age": "40",
+    "topItem": [
+      {
+        "coffeName": "Flat White",
+        "img": "https://images.pexels.com/photos/3491211/pexels-photo-3491211.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Antoccino",
+        "img": "https://images.pexels.com/photos/4264049/pexels-photo-4264049.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Macchiato",
+        "img": "https://images.pexels.com/photos/2638019/pexels-photo-2638019.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "name": "William",
+    "experience": "8",
+    "photo": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+    "description": "When the James Beard award winning restaurant Vetri asked me to develop a custom blend to match their cuisine and authentic Italian atmosphere, I was excited and nervous all at once. I had created custom blends before, however this was a great honor. I was already a huge fan of the restaurant and held great reverence for the quality of the food and skill of the chefs in its kitchen. On the other hand I knew the chef was very determined, willful, and not very delicate in his words.",
+    "country": "Portugal",
+    "age": "45",
+    "topItem": [
+      {
+        "coffeName": "Flat White",
+        "img": "https://images.pexels.com/photos/15055048/pexels-photo-15055048.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Caffe Gommosa",
+        "img": "https://images.pexels.com/photos/302888/pexels-photo-302888.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Latte",
+        "img": "https://images.pexels.com/photos/2351275/pexels-photo-2351275.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "name": "Benjamin & Lucas",
+    "experience": "5",
+    "photo": "https://i5.walmartimages.com/asr/8af2d497-f443-479f-90cb-3e1c1361219e.c0266dfa23a52e9b9cc27337fb80e222.jpeg",
+    "description": "When the James Beard award winning restaurant Vetri asked me to develop a custom blend to match their cuisine and authentic Italian atmosphere, I was excited and nervous all at once. I had created custom blends before, however this was a great honor. I was already a huge fan of the restaurant and held great reverence for the quality of the food and skill of the chefs in its kitchen. On the other hand I knew the chef was very determined, willful, and not very delicate in his words.",
+    "country": "Norway",
+    "age": "30 and 27",
+    "topItem": [
+      {
+        "coffeName": "Flat White",
+        "img": "https://images.pexels.com/photos/9355964/pexels-photo-9355964.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Long Black",
+        "img": "https://images.pexels.com/photos/236818/pexels-photo-236818.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "coffeName": "Cafe Cubno",
+        "img": "https://images.pexels.com/photos/2878711/pexels-photo-2878711.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  }
+]
