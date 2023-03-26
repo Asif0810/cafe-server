@@ -58,9 +58,11 @@ async function run() {
       res.send(result);
     });
     app.get("/orderd", async (req, res) => {
-      const myallOrder = {};
-      const query = await orderdCollection.find(myallOrder).toArray();
-      res.send(query);
+      const email = req.query.email;
+      const myallOrder = { Customer_email: email };
+      const result = await orderdCollection.find(myallOrder).toArray();
+      res.send(result);
+      console.log(result);
     });
     // delete a item
     app.delete("/delete-item/:id", async (req, res) => {
